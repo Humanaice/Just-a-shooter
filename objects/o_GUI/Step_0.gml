@@ -1,0 +1,5 @@
+/// @DnDAction : YoYo Games.Common.Execute_Code
+/// @DnDVersion : 1
+/// @DnDHash : 786B560E
+/// @DnDDisabled : 1
+/// @DnDArgument : "code" "/// @description Execute Code$(13_10)if (room == rm_level_1)$(13_10){$(13_10)	draw_sprite_ext(metalPanel,-1,1632,64,2.6,1.32,0,c_white,1)$(13_10)	draw_sprite_ext(metalPanel,-1,1632,256,2.6,1.32,0,c_white,1)$(13_10)	draw_sprite_ext(metalPanel,-1,1632,448,2.6,1.32,0,c_white,1)$(13_10)	$(13_10)	draw_sprite_ext(squareWhite,-1,1472,64,7,5,0,c_black,1)$(13_10)	draw_sprite_ext(squareWhite,-1,1472,256,7,5,0,c_black,1)$(13_10)	draw_sprite_ext(squareWhite,-1,1472,448,7,5,0,c_black,1)$(13_10)	draw_sprite_ext(glassPanel_corners,-1,1472,64,1.32,1.32,0,c_white,1)$(13_10)	draw_sprite_ext(glassPanel_corners,-1,1472,256,1.32,1.32,0,c_white,1)$(13_10)	draw_sprite_ext(glassPanel_corners,-1,1472,448,1.32,1.32,0,c_white,1)$(13_10)	$(13_10)	$(13_10)	$(13_10)}"
