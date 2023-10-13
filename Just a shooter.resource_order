@@ -134,6 +134,7 @@
     {"name":"spr_fire_explosion_shock","order":9,"path":"sprites/spr_fire_explosion_shock/spr_fire_explosion_shock.yy",},
     {"name":"spr_wall","order":10,"path":"sprites/spr_wall/spr_wall.yy",},
     {"name":"crossair_blue","order":2,"path":"sprites/crossair_blue/crossair_blue.yy",},
+    {"name":"scrPauseDraw","order":5,"path":"scripts/scrPauseDraw/scrPauseDraw.yy",},
     {"name":"Bonus_BTN_01","order":8,"path":"sprites/Bonus_BTN_01/Bonus_BTN_01.yy",},
     {"name":"barVertical_yellow_mid","order":16,"path":"sprites/barVertical_yellow_mid/barVertical_yellow_mid.yy",},
     {"name":"barVertical_white_top","order":14,"path":"sprites/barVertical_white_top/barVertical_white_top.yy",},

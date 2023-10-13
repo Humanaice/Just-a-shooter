@@ -53,7 +53,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.8.2.106",
+    "IDEVersion": "2023.8.2.108",
   },
   "resources": [
     {"id":{"name":"Sprite64","path":"sprites/Sprite64/Sprite64.yy",},},
@@ -166,6 +166,7 @@
     {"id":{"name":"barHorizontal_blue_left","path":"sprites/barHorizontal_blue_left/barHorizontal_blue_left.yy",},},
     {"id":{"name":"spr_enemy_orange","path":"sprites/spr_enemy_orange/spr_enemy_orange.yy",},},
     {"id":{"name":"crossair_blue","path":"sprites/crossair_blue/crossair_blue.yy",},},
+    {"id":{"name":"scrPauseDraw","path":"scripts/scrPauseDraw/scrPauseDraw.yy",},},
     {"id":{"name":"Bonus_BTN_01","path":"sprites/Bonus_BTN_01/Bonus_BTN_01.yy",},},
     {"id":{"name":"barVertical_yellow_mid","path":"sprites/barVertical_yellow_mid/barVertical_yellow_mid.yy",},},
     {"id":{"name":"barVertical_white_top","path":"sprites/barVertical_white_top/barVertical_white_top.yy",},},

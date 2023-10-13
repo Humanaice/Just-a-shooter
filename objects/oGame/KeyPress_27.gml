@@ -13,6 +13,16 @@ if(!(global.gamePaused == true))
 	/// @DnDArgument : "expr" "true"
 	/// @DnDArgument : "var" "global.gamePaused"
 	global.gamePaused = true;
+
+	/// @DnDAction : YoYo Games.Common.Function_Call
+	/// @DnDVersion : 1
+	/// @DnDHash : 2718E809
+	/// @DnDApplyTo : {oGUI}
+	/// @DnDParent : 5DAE19CB
+	/// @DnDArgument : "function" "Screenshot"
+	with(oGUI) {
+		Screenshot();
+	}
 }
 
 /// @DnDAction : YoYo Games.Common.Else
