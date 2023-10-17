@@ -10,9 +10,10 @@ if(!(global.gamePaused == true))
 	/// @DnDVersion : 1
 	/// @DnDHash : 75A441D8
 	/// @DnDParent : 34102426
-	/// @DnDArgument : "code" "/// @What the player will do frame by frame$(13_10)$(13_10)//Get Input$(13_10)script_execute(scrPlayerMovement);$(13_10)$(13_10)$(13_10)$(13_10)$(13_10)$(13_10)$(13_10)"
+	/// @DnDArgument : "code" "/// @What the player will do frame by frame$(13_10)$(13_10)//Get Input$(13_10)script_execute(scrPlayerMovement);$(13_10)script_execute(scrPlayerShooting);$(13_10)$(13_10)$(13_10)$(13_10)$(13_10)$(13_10)"
 	/// @What the player will do frame by frame
 	
 	//Get Input
 	script_execute(scrPlayerMovement);
+	script_execute(scrPlayerShooting);
 }
